@@ -1,0 +1,6 @@
+com/isa/usersengine/Main.class
+com/isa/usersengine/dao/UsersRepositoryDao.class
+com/isa/usersengine/servlets/HelloServlet.class
+com/isa/usersengine/repository/UsersRepository.class
+com/isa/usersengine/dao/UsersRepositoryDaoBean.class
+com/isa/usersengine/domain/User.class
